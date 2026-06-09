@@ -58,9 +58,7 @@
 
 /* second section css */
 
-.second{
 
-}
 .second h2{
     padding: 20px;
     text-align: center;
@@ -109,4 +107,24 @@
     font-weight: bold;
     font-size: 24px;
     margin-left: 20px;
+}
+.fourth{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue_hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #3882f6;
+    width: 800px;
+    height: 100px;
+    color: white;
+    border-radius: 10px;
+
+}
+.low_btn{
+    border: 2px solid white;
 }
