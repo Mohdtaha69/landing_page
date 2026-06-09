@@ -128,3 +128,11 @@
 .low_btn{
     border: 2px solid white;
 }
+.footer{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+}
